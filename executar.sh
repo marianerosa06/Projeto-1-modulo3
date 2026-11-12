@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 "Calculadora Mariana.py"
+python3 "Calculadora Mariane.py"
