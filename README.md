@@ -6,6 +6,7 @@ Primeiro você precisa incluir o número correspondente a operação que você q
 Para rodar este projeto de forma automatizada via terminal Linux/macOS, siga os passos abaixo:
 
 1. Abra o terminal na pasta do projeto.
-2. Dê permissão de execução para o arquivo `.sh` com o comando:
+2. Execute o arquivo com o comando:
    ```bash
    bash executar.sh
+   ```
