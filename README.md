@@ -8,4 +8,4 @@ Para rodar este projeto de forma automatizada via terminal Linux/macOS, siga os 
 1. Abra o terminal na pasta do projeto.
 2. Dê permissão de execução para o arquivo `.sh` com o comando:
    ```bash
- bash executar.sh
+   bash executar.sh
